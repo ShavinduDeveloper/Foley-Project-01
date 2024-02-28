@@ -8,6 +8,6 @@
 
 * After downloading all folders and files, the final folder Structure looks like this 
 
-   > <img src="Final Out/Foley Project 02 Folder Structure.png" alt="folder Structure" style="float: left; margin-right: 10px;" />
+   > <img src="Final Out/Foley Project 01 Folder Structure.png" alt="folder Structure" style="float: left; margin-right: 10px;" />
 
-* <I>Sound Source : https://freesound.org/ </i>
+* <i>Sound Source : https://freesound.org/ </i>
